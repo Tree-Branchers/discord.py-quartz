@@ -12,7 +12,7 @@ Project is Under - Eclipse Public License - v 2.0
 
 
 ## Commands
-- [Private messages](#Private-messages-(direct-messages))
+- [Private messages](#Private-messages-(direct messages))
 - [Google search](#Google-search)
 - [All commands](#All-commands)
 
@@ -24,7 +24,7 @@ Project is Under - Eclipse Public License - v 2.0
 
 # How it works
 
-#### Private messages (direct messages)
+#### Private-messages-(direct messages)
 
 ![Screenshot 2023-01-16 120728](https://user-images.githubusercontent.com/112943652/212666399-2984162c-094e-4972-8a4b-9dfb39cfba3b.png)
 ![Screenshot 2023-01-16 120933](https://user-images.githubusercontent.com/112943652/212666484-9925d57b-acd9-42e3-97e6-85fe796500f5.png)
