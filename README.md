@@ -12,9 +12,9 @@ Project is Under - Eclipse Public License - v 2.0
 
 
 ## Commands
-- [Private messages](Private-messages-(direct-messages))
-- [Google search](Google-search)
-- [All commands](All-commands)
+- [Private messages](#Private-messages-(direct-messages))
+- [Google search](#Google-search)
+- [All commands](#All-commands)
 
 
 ## quartz
