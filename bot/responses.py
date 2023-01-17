@@ -33,7 +33,7 @@ def google_search(p_message):
         print("No module named 'google' found")
 
     query = ''.join(p_message.split()[1:])
-    result = '\n'.join([j for j in search(query, tld="co.in", num=10, stop=10, pause=2)])
+    result = '\n'.join([f'<{j}>' for j in search(query, tld="co.in", num=10, stop=10, pause=2)])
     return f'''
 **`Found Results`**:
 {result}
